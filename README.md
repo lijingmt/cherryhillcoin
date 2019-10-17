@@ -48,4 +48,4 @@ This github repository also contains 2 dashboards:
 
 
 # First author's Blog : http://adilmoujahid.com
-# My Blog : http://cherryhillcoin.com
+
